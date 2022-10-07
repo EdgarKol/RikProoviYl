@@ -1,0 +1,31 @@
+{
+  "name": "rik_project",
+  "version": "1.0.0",
+  "description": "rik_project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarKol/RikProoviYl.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "typeorm"
+  ],
+  "author": "EdgarKol",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/EdgarKol/RikProoviYl/issues"
+  },
+  "homepage": "https://github.com/EdgarKol/RikProoviYl#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.8.4"
+  }
+}
